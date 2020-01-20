@@ -8,7 +8,7 @@ setup(
   description = 'Topsis code',   # Give a short description about your library
   author = 'Deepak Gupta',                   # Type in your name
   author_email = 'deepakgupta221999@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
+  url = 'https://github.com/deepak199922/Topsisss',   # Provide either the link to your github or to your website
   install_requires=[            # I get to this in a second
           'pandas',
           'numpy',
